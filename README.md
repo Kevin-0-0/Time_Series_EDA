@@ -17,7 +17,7 @@ The project includes various plots, such as:
 ## Python Packages Used
 - Pandas , Matplotlib, yfinance , Panda-datareader
 
-## UseCases(Results)
+## Results
 - Resampled data insights (e.g., weekly/monthly trends).
 - Clear visualizations for understanding stock behavior.
 
